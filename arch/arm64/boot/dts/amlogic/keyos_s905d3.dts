@@ -2,7 +2,7 @@
 #include "rp-lcd-mipi-10-1920-1200.dtsi"
 //#include "rp-lcd-mipi-7-1024-600.dtsi"
 /{
-	model = "Amlogic";
+	model = "Keyos keyosv1";
 	amlogic-dt-id = "pro-s905d3";
 	compatible = "amlogic, pro-s905d3";
 	pw_en {
